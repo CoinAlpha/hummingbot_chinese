@@ -1,3 +1,4 @@
+![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 # hummingbot中文资源
 
 *请注意：本篇内容并非金融投资理财建议*
