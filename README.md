@@ -1,2 +1,2 @@
-# hummingbot_chinese
-hummingbot中文资源
+# hummingbot中文资源
+
