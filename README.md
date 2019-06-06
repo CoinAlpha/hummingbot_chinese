@@ -12,13 +12,13 @@
 Hummingbot现在支持的交易所有：币安、DDEX、Radar Relay、Coinbase Pro、Bamboo Relay等，即将支持的交易所有IDEX、Uniswap、Binance DEX等。
 
 Hummingbot现在提供以下几种策略：
-[跨交易所做市](https://docs.hummingbot.io/strategies/cross-exchange-market-making/)
-[单交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)
-[跨交易所套利](https://docs.hummingbot.io/strategies/arbitrage/)
-[发现跨交易所套利盈利机会](https://docs.hummingbot.io/strategies/discovery/)
+- [跨交易所做市](https://docs.hummingbot.io/strategies/cross-exchange-market-making/)
+- [单交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)
+- [跨交易所套利](https://docs.hummingbot.io/strategies/arbitrage/)
+- [发现跨交易所套利盈利机会](https://docs.hummingbot.io/strategies/discovery/)
 
 **相关阅读**
-[《不要牌照，不会编程，我一个人就是一支量化基金》](https://www.chainnews.com/articles/092938875124.htm)
+- [《不要牌照，不会编程，我一个人就是一支量化基金》](https://www.chainnews.com/articles/092938875124.htm)
 <br>
 <br>
 ### 做市概念入门
@@ -38,35 +38,36 @@ Hummingbot提供两种做市交易策略，如下图所示：
 <br>
 ### 跨交易所套利概念入门
 ![](https://docs.hummingbot.io/assets/img/arbitrage.png)
+
 跨市套利是在两个交易所之间买进和卖出相同的数字资产交易对，并利用交易所之间的差价来赚取利润，也是一种低买高卖的做法。为了帮助用户更好的发现跨市套利的机会，hummingbot亦推出了[“发现”功能](https://docs.hummingbot.io/strategies/discovery/)。
 <br>
 <br>
 ### 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
-  [如何获取Binance API](https://docs.hummingbot.io/connectors/binance/) 
-  [如何获取Coinbase Pro API](https://docs.hummingbot.io/connectors/coinbase/)
+  - [如何获取Binance API](https://docs.hummingbot.io/connectors/binance/) 
+  - [如何获取Coinbase Pro API](https://docs.hummingbot.io/connectors/coinbase/)
 - 以太坊钱包（如果你的策略涉及去中心化交易所）
-  例如：Metamask
+  - 例如：Metamask
 - 以太坊节点（如果你的策略涉及去中心化交易所）
-  [关于以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
-  [如何免费获得一个以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
+  - [关于以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
+  - [如何免费获得一个以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
 - 运行系统要求：
-  Ubuntu 16.04或以后版本
-  macOS 10.12.6 (Sierra)或以后版本
-  Windows 10或以后版本
+  - Ubuntu 16.04或以后版本
+  - macOS 10.12.6 (Sierra)或以后版本
+  - Windows 10或以后版本
 <br>
 <br>
 ### 安装hummingbot
 **相关阅读**
-[《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
+- [《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
 <br>
 <br>
 ### 使用hummingbot
 **相关阅读**
-[《如何配置hummingbot》](https://docs.hummingbot.io/operation/configuration/)
-[《如何运行hummingbot》](https://docs.hummingbot.io/operation/running-bots/)
+- [《如何配置hummingbot》](https://docs.hummingbot.io/operation/configuration/)
+- [《如何运行hummingbot》](https://docs.hummingbot.io/operation/running-bots/)
 <br>
 <br>
 ### hummingbot博客
-[交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
+- [交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
