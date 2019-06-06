@@ -56,18 +56,19 @@ Hummingbot提供两种做市交易策略，如下图所示：
   - Ubuntu 16.04或以后版本
   - macOS 10.12.6 (Sierra)或以后版本
   - Windows 10或以后版本
-<br>
-<br>
+
+
 ### 安装hummingbot
+
 **相关阅读**
 - [《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
-<br>
-<br>
+
 ### 使用hummingbot
+
 **相关阅读**
 - [《如何配置hummingbot》](https://docs.hummingbot.io/operation/configuration/)
 - [《如何运行hummingbot》](https://docs.hummingbot.io/operation/running-bots/)
-<br>
-<br>
+
 ### hummingbot博客
+
 - [交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
