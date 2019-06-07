@@ -5,7 +5,7 @@
 
 > ***👏欢迎在“Issues”区讨论及提问题***
 
-### hummingbot是什么？
+## hummingbot是什么？
 ![hummingbot command line user interface](https://www.hummingbot.io/blog/2019-04-announcing-hummingbot/hummingbot-cli.png)
 [Hummingbot](https://github.com/coinalpha/hummingbot)(点击查看源代码及下载hummingbot)是一个**开源且免费**的数字货币量化策略交易软件，是让任何人都可以创造和使用高频交易机器人的一款交易工具，用以实现跨交易所或单交易所做市及套利。Hummingbot可以为散户、中小型交易公司或基金提供量化高频交易策略，亦可以为区块链项目发行的数字货币以及交易所本身提供流动性。
 
@@ -19,29 +19,38 @@ Hummingbot现在提供以下几种策略：
 
 **相关阅读**
 - [《不要牌照，不会编程，我一个人就是一支量化基金》](https://www.chainnews.com/articles/092938875124.htm)
-<br>
-<br>
-### 做市概念入门
-“做市”简单来讲就是不断报出特定买卖价格（就是在交易是出limit order而不是直接接受market order），卖价当然比买价要高，自行设定，这样当对方接单时，你就可以实现低买高卖了。在传统金融市场比如纳斯达克和新三板中，做市商十分普遍，但门槛很高，数字货币交易所因为数据透明以及API公开等原因为入场做市提供了较低的门槛，人人都可以进行做市套利交易。
 
-对做市商来说，做市是一种盈利方式。对区块链项目和数字资产交易所来说，做市商的加入可以提高数字资产**流动性**，帮助数字资产形成合理价格，为更多的交易者提供交易机会。
 
-Hummingbot提供两种做市交易策略，如下图所示： 
+## 做市概念入门
+“做市”简单来讲就是不断报出特定买卖价格（就是在交易是出limit order而不是直接接受market order），卖价当然比买价要高，自行设定，这样当对方接单时，你就可以实现低买高卖了。做市为金融市场提供了宝贵的**流动性**，流动性越高的市场或资产交易效率越高、买卖价差越低、市场参与者对此的信心也就越高，参与者数量越多。
+
+在传统金融市场比如纳斯达克和新三板中，做市商十分普遍，但门槛很高，数字货币交易所因为数据透明以及API公开等原因为入场做市提供了较低的门槛，人人都可以进行做市套利交易。
+
+对做市商来说，做市是一种逻辑相对简单、风向相对较低的盈利方式。对区块链项目和数字资产交易所来说，做市商的加入可以提高数字资产**流动性**，帮助数字资产形成合理价格，为更多的交易者提供交易机会。
+
+Hummingbot现在提供两种做市交易策略，图解如下所示： 
+
+### 单交易所做市策略图解
+
+点击[单交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)了解更多策略机制。
 ![](https://docs.hummingbot.io/assets/img/pure-mm.png)
-*单交易所做市策略图解*
-<br>
-<br>
+
+
+### 跨交易所做市策略图解
+
+点击[跨交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)了解更多策略机制。
 ![](https://docs.hummingbot.io/assets/img/xemm-1.png)
 ![](https://docs.hummingbot.io/assets/img/xemm-2.png)
-*跨交易所做市策略图解*
-<br>
-<br>
-### 跨交易所套利概念入门
+
+
+## 跨交易所套利概念入门
+
+跨交易所套利图解如下所示： 
 ![](https://docs.hummingbot.io/assets/img/arbitrage.png)
 
 跨市套利是在两个交易所之间买进和卖出相同的数字资产交易对，并利用交易所之间的差价来赚取利润，也是一种低买高卖的做法。为了帮助用户更好的发现跨市套利的机会，hummingbot亦推出了[“发现”功能](https://docs.hummingbot.io/strategies/discovery/)。
-<br>
-<br>
+
+
 ### 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
