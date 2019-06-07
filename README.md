@@ -56,7 +56,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
-### 使用hummingbot的前期准备
+## 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
   - [如何获取Binance API](https://docs.hummingbot.io/connectors/binance/) 
@@ -73,14 +73,14 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
-### 安装hummingbot
+## 安装hummingbot
 
 **相关阅读**
 - [《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
 
 <br>
 
-### 使用hummingbot
+## 使用hummingbot
 
 **相关阅读**
 - [《如何配置hummingbot》](https://docs.hummingbot.io/operation/configuration/)
@@ -88,13 +88,13 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
-### hummingbot博客
+## hummingbot博客
 
 - [交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
 
 <br>
 
-### hummingbot互动
+## hummingbot互动
 
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
