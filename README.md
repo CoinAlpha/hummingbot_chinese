@@ -96,5 +96,6 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 ## hummingbot互动
 
+- 想问问题？欢迎在github “Issues”区讨论及提出你的问题
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
