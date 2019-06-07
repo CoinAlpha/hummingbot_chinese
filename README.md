@@ -5,6 +5,8 @@
 
 > ***👏欢迎在“Issues”区讨论及提问题***
 
+<br>
+
 ## hummingbot是什么？
 ![hummingbot command line user interface](https://www.hummingbot.io/blog/2019-04-announcing-hummingbot/hummingbot-cli.png)
 [Hummingbot](https://github.com/coinalpha/hummingbot)(点击查看源代码及下载hummingbot)是一个**开源且免费**的数字货币量化策略交易软件，是让任何人都可以创造和使用高频交易机器人的一款交易工具，用以实现跨交易所或单交易所做市及套利。Hummingbot可以为散户、中小型交易公司或基金提供量化高频交易策略，亦可以为区块链项目发行的数字货币以及交易所本身提供流动性。
@@ -20,6 +22,7 @@ Hummingbot现在提供以下几种策略：
 **相关阅读**
 - [《不要牌照，不会编程，我一个人就是一支量化基金》](https://www.chainnews.com/articles/092938875124.htm)
 
+<br>
 
 ## 做市概念入门
 “做市”简单来讲就是不断报出特定买卖价格（就是在交易是出limit order而不是直接接受market order），卖价当然比买价要高，自行设定，这样当对方接单时，你就可以实现低买高卖了。做市为金融市场提供了宝贵的**流动性**，流动性越高的市场或资产交易效率越高、买卖价差越低、市场参与者对此的信心也就越高，参与者数量越多。
@@ -42,6 +45,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ![](https://docs.hummingbot.io/assets/img/xemm-1.png)
 ![](https://docs.hummingbot.io/assets/img/xemm-2.png)
 
+<br>
 
 ## 跨交易所套利概念入门
 
@@ -50,6 +54,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 跨市套利是在两个交易所之间买进和卖出相同的数字资产交易对，并利用交易所之间的差价来赚取利润，也是一种低买高卖的做法。为了帮助用户更好的发现跨市套利的机会，hummingbot亦推出了[“发现”功能](https://docs.hummingbot.io/strategies/discovery/)。
 
+<br>
 
 ### 使用hummingbot的前期准备
 - 足够数量的交易对存货
@@ -66,11 +71,14 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
   - macOS 10.12.6 (Sierra)或以后版本
   - Windows 10或以后版本
 
+<br>
 
 ### 安装hummingbot
 
 **相关阅读**
 - [《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
+
+<br>
 
 ### 使用hummingbot
 
@@ -78,6 +86,15 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 - [《如何配置hummingbot》](https://docs.hummingbot.io/operation/configuration/)
 - [《如何运行hummingbot》](https://docs.hummingbot.io/operation/running-bots/)
 
+<br>
+
 ### hummingbot博客
 
 - [交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
+
+<br>
+
+### hummingbot互动
+
+- 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
+- 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
