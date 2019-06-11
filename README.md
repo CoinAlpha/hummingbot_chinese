@@ -68,7 +68,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 <br>
 
 ## 常见问题
-- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/FAQ.md)
+- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
 
 ## 使用hummingbot的前期准备
 - 足够数量的交易对存货
@@ -90,8 +90,8 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## 安装hummingbot
 
 **相关阅读**
-- [《如何安装hummingbot》](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/%E5%AE%89%E8%A3%85Hummingbot.md)
-- [《如何安装hummingbot(英文原文)》](https://docs.hummingbot.io/installation/)
+- [《如何安装hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E5%AE%89%E8%A3%85Hummingbot.md)
+- [《如何安装hummingbot》(英文原文)](https://docs.hummingbot.io/installation/)
 
 <br>
 
