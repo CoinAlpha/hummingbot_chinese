@@ -1,3 +1,4 @@
+syuukawa-B
 ![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 # hummingbot中文资源 （不断完善中）
 
