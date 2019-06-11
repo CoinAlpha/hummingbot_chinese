@@ -1,7 +1,7 @@
 ![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 # hummingbot中文资源 （不断完善中）
 
-*请注意：本篇内容并非金融投资理财建议*
+*请注意：hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。本篇内容并非金融投资理财建议。*
 
 > ***👏欢迎在“Issues”区讨论及提问题***
 
@@ -9,7 +9,7 @@
 - [hummingbot是什么](#hummingbot是什么)
 - [做市概念入门](#做市概念入门) 
 - [跨交易所套利概念入门](#跨交易所套利概念入门)
-- [常见问题]（#常见问题）
+- [常见问题](#常见问题)
 - [使用hummingbot的前期准备](#使用hummingbot的前期准备)
 - [安装hummingbot](#安装hummingbot)
 - [使用hummingbot](#使用hummingbot)
