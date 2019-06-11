@@ -9,6 +9,7 @@
 - [hummingbot是什么](#hummingbot是什么)
 - [做市概念入门](#做市概念入门) 
 - [跨交易所套利概念入门](#跨交易所套利概念入门)
+- [常见问题]（#常见问题）
 - [使用hummingbot的前期准备](#使用hummingbot的前期准备)
 - [安装hummingbot](#安装hummingbot)
 - [使用hummingbot](#使用hummingbot)
@@ -65,6 +66,9 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
+## 常见问题
+- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/FAQ.md)
+
 ## 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
@@ -85,7 +89,8 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## 安装hummingbot
 
 **相关阅读**
-- [《如何安装hummingbot》](https://docs.hummingbot.io/installation/)
+- [《如何安装hummingbot》](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/%E5%AE%89%E8%A3%85Hummingbot.md)
+- [《如何安装hummingbot(英文原文)》](https://docs.hummingbot.io/installation/)
 
 <br>
 
