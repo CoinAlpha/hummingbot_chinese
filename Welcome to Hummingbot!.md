@@ -8,3 +8,6 @@
 - [Installation](https://docs.hummingbot.io/installation) 
 - [Support](https://docs.hummingbot.io/support) 
 
+-  注：
+
+hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。
