@@ -10,12 +10,12 @@
 - 选择“New VM Instance”，然后选择Ubuntu 18.04 LTS
 
 
-![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-001.png)
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Google-Cloud-Platform001.png)
 
 
 - 点击“SSH”可以SSH到一个新创建的VM实例
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Google-Cloud-Platform002.png)
 
 
 ### 在Amazon Web Services创建一个新的VM实例
@@ -23,26 +23,28 @@
 - 进入到AWS管理控制台
 - 点击“启动虚拟机”
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-001.png)
 
 - 选择 Ubuntu Server 18.04 LTS (HVM)
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-002.png)
 
 - 点击 "Review and Launch", 然后点击"Launch"
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-003.png)
 
 
 - 选择“新建密钥对”，命名密钥对(例如hummingbot)，下载密钥对，然后单击“启动实例”。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-004.png)
+
 
 - 点击 “View Instances”
 - 要从终端连接到实例，单击“connect”，然后按照生成页面上的说明操作。
 
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-005.png)
+
 
 
 ### 在Microsoft Azure创建一个新的VM实例
@@ -50,38 +52,43 @@
 - 进入到虚拟机控制台。
 - 点击左上角的“添加”按钮。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-001.png)
 
 
 - 为资源组和VM选择一个名称。
 - 选择Ubuntu 18.04 LTS作为镜像类型，选择Standard D2s v3作为大小。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-002.png)
 
 
 - 在“管理员帐户”下，选择密码并选择用户名和密码。
 - 在“入站端口规则”下，选择SSH和HTTP。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-003.png)
+
 
 - 向上滚动到顶部，点击“管理”标签。
 - 为诊断存储帐户选择一个有效的名称。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-004.png)
+
 
 - 进入“Review and Create”标签，点击“Create”。
 
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-005.png)
+
 
 - 创建VM完成，下载并安装操作系统的PuTTY。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-006.png)
+
 
 - 初始化VM之后，复制公共IP地址。
 - 打开PuTTY应用程序，将IP地址粘贴到主机名中，然后打开。
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Microsoft-Azure-007.png)
+
 
 
 ### 在Ubuntu上安装Docker(或参考Docker官方说明)
@@ -122,11 +129,13 @@ sudo docker run -it \
 -v "$PWD"/logs/:/logs/ \
 coinalpha/hummingbot:$TAG
 
-###################图片############################
+
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Docker-Ubuntu-001.png)
 
 
 - 安装docker 之后，您将看到下面的屏幕，Hummingbot在这里成功启动
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Docker-Ubuntu-002.png)
+
 
 - 开始做市!
