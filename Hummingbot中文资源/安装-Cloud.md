@@ -10,7 +10,7 @@
 - 选择“New VM Instance”，然后选择Ubuntu 18.04 LTS
 
 
-###################图片############################
+![image](https://github.com/syuukawa/hummingbot_chinese/blob/master/images/Amazon-Web-Services-001.png)
 
 
 - 点击“SSH”可以SSH到一个新创建的VM实例
