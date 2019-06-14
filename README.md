@@ -1,7 +1,7 @@
 ![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 # hummingbot中文资源 （不断完善中）
 
-*请注意：hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。本篇内容并非金融投资理财建议。*
+*请注意：hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。本repo内所有文件及内容均非金融投资理财建议。*
 
 > ***👏欢迎在“Issues”区讨论及提问题***
 
@@ -70,16 +70,19 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## 常见问题
 - [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
 
+<br>
+
 ## 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
   - [如何获取Binance API](https://docs.hummingbot.io/connectors/binance/) 
   - [如何获取Coinbase Pro API](https://docs.hummingbot.io/connectors/coinbase/)
 - 以太坊钱包（如果你的策略涉及去中心化交易所）
+  - [了解以太坊钱包更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E9%92%B1%E5%8C%85.md)
   - 例如：Metamask
 - 以太坊节点（如果你的策略涉及去中心化交易所）
-  - [关于以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
-  - [如何免费获得一个以太坊节点](https://docs.hummingbot.io/installation/node/#option-2-third-party-providers)
+  - [了解以太坊节点更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E8%8A%82%E7%82%B9.md)
+  - 如何免费获得一个以太坊节点 coming soon
 - 运行系统要求：
   - Ubuntu 16.04或以后版本
   - macOS 10.12.6 (Sierra)或以后版本
@@ -90,7 +93,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## 安装hummingbot
 
 **相关阅读**
-- [《如何安装hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E5%AE%89%E8%A3%85Hummingbot.md)
+- [《如何安装hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/tree/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)
 - [《如何安装hummingbot》(英文原文)](https://docs.hummingbot.io/installation/)
 
 <br>
@@ -114,6 +117,8 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 - 想问问题？欢迎在github “Issues”区讨论及提出你的问题
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
+
+<br>
 
 ## 致谢
 感谢本repo的第一个来自社区的贡献者[syuukawa](https://github.com/syuukawa)！💐
