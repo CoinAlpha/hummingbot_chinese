@@ -30,6 +30,9 @@ Hummingbot现在提供以下几种策略：
 - [跨交易所套利](https://docs.hummingbot.io/strategies/arbitrage/)
 - [发现跨交易所套利盈利机会](https://docs.hummingbot.io/strategies/discovery/)
 
+[Hummingbot英文网站](https://www.hummingbot.io)为hummingbot**官方网站**，一切信息请以官方网站为准。
+[Hummingbot中文网站](http://hummingbot.cn)由社区成员[syuukawa](https://github.com/syuukawa)个人创建及维护。
+
 **相关阅读**
 - [《不要牌照，不会编程，我一个人就是一支量化基金》](https://www.chainnews.com/articles/092938875124.htm)
 
