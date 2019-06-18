@@ -30,7 +30,7 @@
 ### 提交
 
 - 关于安全漏洞:请通过电子邮件dev@hummingbot.io将问题描述发送给我们
-- 对于所有其他Bug:在我们的Github repo中提交一个Bug报告
+- 对于所有其他Bug:在我们的Github repo中[提交一个Bug报告](https://github.com/CoinAlpha/hummingbot/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)
 - 请遵循模板，并包括对bug的详细描述、复制步骤、支持**工件(如截图、日志、配置设置)，以及建议的修复(如果有的话)
 - 隐私:我们保证不会将您的信息用于交易目的或与第三方共享您的个人信息
 
@@ -41,7 +41,3 @@ Hummingbot团队将在24小时内对您的报告进行调查，并与您联系�
 ### 报告错误
 
 在本节中，我们将发布已报告的bug及其状态列表。
-
-
-
-
