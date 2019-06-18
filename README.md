@@ -49,13 +49,13 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 ### 单交易所做市策略图解
 
-点击[单交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)了解更多策略机制。
+点击[单交易所做市](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/%E5%8D%95%E4%BA%A4%E6%98%93%E6%89%80%E5%81%9A%E5%B8%82.md)了解更多。
 ![](https://docs.hummingbot.io/assets/img/pure-mm.png)
 
 
 ### 跨交易所做市策略图解
 
-点击[跨交易所做市](https://docs.hummingbot.io/strategies/pure-market-making/)了解更多策略机制。
+点击[跨交易所做市](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/%E8%B7%A8%E4%BA%A4%E6%98%93%E6%89%80%E5%81%9A%E5%B8%82.md)了解更多。
 ![](https://docs.hummingbot.io/assets/img/xemm-1.png)
 ![](https://docs.hummingbot.io/assets/img/xemm-2.png)
 
@@ -66,7 +66,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 跨交易所套利图解如下所示： 
 ![](https://docs.hummingbot.io/assets/img/arbitrage.png)
 
-跨市套利是在两个交易所之间买进和卖出相同的数字资产交易对，并利用交易所之间的差价来赚取利润，也是一种低买高卖的做法。为了帮助用户更好的发现跨市套利的机会，hummingbot亦推出了[“发现”功能](https://docs.hummingbot.io/strategies/discovery/)。
+跨市套利是在两个交易所之间买进和卖出相同的数字资产交易对，并利用交易所之间的差价来赚取利润，也是一种低买高卖的做法。为了帮助用户更好的发现跨市套利的机会，hummingbot亦推出了[“发现”功能](https://docs.hummingbot.io/strategies/discovery/)。点击[跨交易所套利](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/%E5%A5%97%E5%88%A9.md)了解更多。
 
 <br>
 
@@ -78,8 +78,8 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## 使用hummingbot的前期准备
 - 足够数量的交易对存货
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
-  - [如何获取Binance API](https://docs.hummingbot.io/connectors/binance/) 
-  - [如何获取Coinbase Pro API](https://docs.hummingbot.io/connectors/coinbase/)
+  - [如何获取Binance API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Binance%E6%8E%A5%E5%8F%A3.md) 
+  - [如何获取Coinbase Pro API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Coinbase%20Pro%E6%8E%A5%E5%8F%A3.md)
 - 以太坊钱包（如果你的策略涉及去中心化交易所）
   - [了解以太坊钱包更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E9%92%B1%E5%8C%85.md)
   - 例如：Metamask
@@ -105,7 +105,11 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 **相关阅读**
 - [《如何配置hummingbot》(英文原文)](https://docs.hummingbot.io/operation/configuration/)
+- [《如何配置hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Hummingbot%E9%85%8D%E7%BD%AE.md)
 - [《如何运行hummingbot》(英文原文)](https://docs.hummingbot.io/operation/running-bots/)
+- [《如何运行hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E8%BF%90%E8%A1%8CBots.md)
+- [《如何在云上运行hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E8%BF%90%E8%A1%8Cbots-%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A.md)
+- [认识hummingbot客户端](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Hummingbot%E5%AE%A2%E6%88%B7%E7%AB%AF.md)
 
 <br>
 
@@ -120,6 +124,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 - 想问问题？欢迎在github “Issues”区讨论及提出你的问题
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
+- 发现bug？报告bug也可以获得赏金哟！每报告一个我们决定解决的bug便可以获得0.1ETH赏金，[点击了解详情](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Bug%E8%B5%8F%E9%87%91%E8%AE%A1%E5%88%92.md)。
 
 <br>
 
