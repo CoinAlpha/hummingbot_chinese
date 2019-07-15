@@ -123,7 +123,7 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 ## hummingbot互动
 
 - 想问问题？欢迎在github “Issues”区讨论及提出你的问题
-- 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](discord.hummingbot.io)
+- 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](https://discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
 - 发现bug？报告bug也可以获得赏金哟！每报告一个我们决定解决的bug便可以获得0.1ETH赏金，[点击了解详情](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Bug%E8%B5%8F%E9%87%91%E8%AE%A1%E5%88%92.md)。
 
