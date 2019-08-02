@@ -12,12 +12,17 @@ Harmony是去中心化经济的一个新的基础层的区块链。与Harmony合
 1.所有注册$ONE Makers的用户都有资格获得基本奖励。
 2.此外，参加者可获额外的奖赏，奖赏金额将根据订单量而定。
 
-### 所有用户的基本奖励
-
-占全部订单量的0.2%的One
-
 ### 奖金奖励
 
+#### 八月奖励计划
+![](https://hummingbot.io/static/212b3c6221b08532a500ab2ddbac8586/ed7b0/aug.png)
+
+#### 七月奖励计划
+
+**所有用户的基础奖励**
+- 全部订单量的0.2%的One
+
+**阶梯奖励**
     层级             需求（满足条件）                                                    奖金奖励
 
     $ONE Maker      注册了$ONE Makers，并使用Hummingbot完成了至少一笔限购订单的唯一用户       0.05 ETH
@@ -29,20 +34,19 @@ Harmony是去中心化经济的一个新的基础层的区块链。与Harmony合
     $ONE Ultimate   按月做市量排名第一                                                    5 ETH
                                                                                        排行榜的认可
 
-
- - 本奖赏计划为暂定，如有更改，恕不另行通知。
+ 
+ *本奖赏计划为暂定，如有更改，恕不另行通知。*
 
 
  ## 如何参加
 
-- 第一步:安装Hummingbot
-- 第二步:登记流动性奖励
-- 第三步:运行一个$ONE的做市机器人
-- 第四步:与其他参与者竞争每月的奖励!    
+- 第1步:[安装Hummingbot](https://docs.hummingbot.io/quickstart/)
+- 第2步:运行一个$ONE的做市机器人，使用pure market making(单交易所做市)或者cross-exchange market making(跨交易所做市)为任何$ONE交易对提供流动性。
+- 第3步:与其他参与者竞争或者每月奖励!    
 
 ## 评价
 
-一旦项目正式启动，奖金将根据参与者的实际交易活动按月发放。所收集的数据只用于核实参与者的实际交易活动。
+一旦项目正式启动，奖金将根据参与者的实际交易活动量及提供的真实流动性按月进行发放。所收集的数据只用于核实参与者的实际交易活动。
 
 所有奖励将由代币发行者及/Hummingbot团队全权决定。
 
@@ -50,7 +54,7 @@ Harmony是去中心化经济的一个新的基础层的区块链。与Harmony合
 
 - [抱负及使命](https://medium.com/harmony-one/one-maker-initiative-stronger-one-by-every-one-429ab7bfcacd)
 - [快速启动视频指南](https://www.youtube.com/watch?v=wySYAPbHRwQ&list=PLDwlNkL_4MMczSzZiomX5wFFuF40z-KLl&index=5&t=19s)
-- [赏金教程](https://docs.hummingbot.io/bounties/tutorial/tutorial)
+- [快速启动文档指南](https://docs.hummingbot.io/quickstart/)
 
 ## 重要的免责声明
 
