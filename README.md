@@ -23,7 +23,7 @@
 
 [Hummingbot](https://github.com/coinalpha/hummingbot)(点击查看源代码及下载hummingbot)是一个**开源且免费**的数字货币量化策略交易软件，是让任何人都可以创造和使用高频交易机器人的一款交易工具，用以实现跨交易所或单交易所做市及套利。Hummingbot可以为散户、中小型交易公司或基金提供量化高频交易策略，亦可以为区块链项目发行的数字货币以及交易所本身提供流动性。
 
-Hummingbot现在支持的交易所有：币安、火币\DDEX、Radar Relay、Coinbase Pro、Bamboo Relay、IDEX等，即将支持的交易所有Bittrex, Bitfinex, Kraken, Bitmex, Binance DEX等。
+Hummingbot现在支持的交易所有：币安、火币、DDEX、Radar Relay、Coinbase Pro、Bamboo Relay、IDEX等，即将支持的交易所有Bittrex, Bitfinex, Kraken, Bitmex, Binance DEX等。
 
 Hummingbot现在提供以下几种策略：
 - [跨交易所做市](https://docs.hummingbot.io/strategies/cross-exchange-market-making/)
@@ -125,18 +125,24 @@ chmod a+x install-docker-ubuntu.sh
 > ***重启Terminal***
 上面的命令将关闭您的终端/ bash窗口，以便为docker命令启用正确的权限。 如果bash /终端窗口没有自动关闭，请关闭并重新启动。
 
+
 **MAC系统**
 您可以通过从官方页面下载安装程序来安装Docker。 下载并安装Docker之后，如有必要，请重新启动系统。
 
+
 **Windows系统**
 通过以下链接下载最新版本的Docker Toolbox .exe文件：Docker Toolbox版本。
+
 ![](https://docs.hummingbot.io/assets/img/docker_toolbox_download.PNG)
 
 在downloads文件夹中找到安装程序，并使用随附的VirtualBox和Git for Windows运行完整安装。 （Git是Docker使用的默认shell）
+
 ![](https://docs.hummingbot.io/assets/img/docker_toolbox_install.PNG)
 
 默认情况下，将在您的桌面上创建Docker Quickstart终端的快捷方式。 您可以使用此快捷方式打开Docker Toolbox。
+
 ![](https://docs.hummingbot.io/assets/img/docker_toolbox_startup.PNG)
+
 
 #### 步骤2：安装Hummingbot
 
@@ -196,6 +202,7 @@ chmod a+x *.sh
 
 **Windows系统**
 使用Docker Quickstart桌面快捷方式打开Docker Toolbox。 您应该看到以下屏幕：
+
 ![](https://docs.hummingbot.io/assets/img/docker_toolbox_cmdline.PNG)
 
 在Docker Toolbox窗口中，运行以下命令：
