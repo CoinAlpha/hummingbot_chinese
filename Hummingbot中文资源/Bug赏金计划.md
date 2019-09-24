@@ -38,6 +38,7 @@
 
 Hummingbot团队将在24小时内对您的报告进行调查，并与您联系讨论该问题，一旦团队决定修复您报告的bug，就会将0.1 ETH发送到您的Ethereum钱包中。
 
-### 报告错误
+### Bug奖金获得者
 
-在本节中，我们将发布已报告的bug及其状态列表。
+[点击](https://docs.hummingbot.io/support/bug-bounty-program/#bounty-distribution-as-of-8312019)查看奖金获得者列表.
+
