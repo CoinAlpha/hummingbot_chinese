@@ -23,7 +23,7 @@
 
 [Hummingbot](https://github.com/coinalpha/hummingbot)(点击查看源代码及下载hummingbot)是一个**开源且免费**的数字货币量化策略交易软件，是让任何人都可以创造和使用高频交易机器人的一款交易工具，用以实现跨交易所或单交易所做市及套利。Hummingbot可以为散户、中小型交易公司或基金提供量化高频交易策略，亦可以为区块链项目发行的数字货币以及交易所本身提供流动性。
 
-Hummingbot现在支持的交易所有：币安、火币、DDEX、Radar Relay、Coinbase Pro、Bamboo Relay、IDEX等，即将支持的交易所有Bittrex, Bitfinex, Kraken, Bitmex, Binance DEX等。
+Hummingbot现在支持的交易所有：币安、火币、Bittrex、DDEX、Radar Relay、Coinbase Pro、Bamboo Relay、IDEX等，即将支持的交易所有Bittrex, Bitfinex, Kraken, Bitmex, Binance DEX等。
 
 Hummingbot现在提供以下几种策略：
 - [跨交易所做市](https://docs.hummingbot.io/strategies/cross-exchange-market-making/)
