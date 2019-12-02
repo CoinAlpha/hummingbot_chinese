@@ -96,7 +96,9 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 ## 安装hummingbot
 
-### 快速安装指南
+### [一键下载Hummingbot到本机](https://hummingbot.io/download/)
+
+### 其他安装方法指南
 #### 步骤1：安装Docker
 
 如果您还没有Docker，我们将向您展示如何在不同平台安装Docker。Docker是一种开源容器化产品，可将所有依赖项预先打包到一个容器中，从而大大简化了安装过程。
