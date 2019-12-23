@@ -60,3 +60,35 @@
 #### 更多资源
 - 在[此处](https://docs.hummingbot.io/strategies/pure-market-making/#inventory-based-dynamic-order-sizing)阅读有关库存偏斜的文档。
 - 请在[此处](https://docs.google.com/spreadsheets/d/16oCExZyM8Wo8d0aRPmT_j7oXCzea3knQ5mmm0LlPGbU/edit#gid=690135600)查看库存偏差计算器。
+
+---
+## 悬挂订单
+
+![](https://hummingbot.io/static/4d2a3f80d7b4541fe0cc955207e96b3a/ed7b0/demo2_2.png)
+悬挂订单可让您更好地控制Hummingbot调整订单的方式。作为做市商，您想在定单的两侧设置点差。默认情况下，我们总是在每个固定的时间间隔取消和补充订单，但是悬挂订单可以让您调整此行为。
+
+通过将```enable_order_filled_stop_cancellation```设置为```true```，Hummingbot会在一侧（买入或卖出）被填充时将另一侧的订单“挂起”（不取消），以便在市场上下波动时始终可以低买高卖。
+
+---
+## 最佳竞价跳跃模式
+
+此功能以前称为“便士跳（Penny Jumping）”，是在流动性不佳，点差较大的市场中交易的理想选择。它使您能够最大程度地扩大订单的价差，同时仍确保您的订单是市场上最好的订单。
+
+此功能来自专业做市商和加密货币对冲基金的实际操作方式。专业的做市商不会天真的设置点差，而是考虑到订单状态并对其他交易者的行为做出判断和反应。
+
+通过将```jump_orders_enabled```设置为```TRUE```，您的机器人将自动调整设置的订单，其价格比最高出价高出1格，并询问市场中的订单。如果另一个做市商取消您的订单，Hummingbot将自动跳出另一个做市商的订单，直到达到您的价差参数（```bid_place_threshold```，```ask_place_threshold```）为止。
+
+您还可以使用```jump_orders_depth```指定进入订单簿的深度，以计算最高买入价和最高买入价。
+
+让我们看看实际情况。在下面的订单簿中，最佳出价和要价订单以红色突出显示。
+![](https://hummingbot.io/static/72243a277da7ec0bee8cbd354ce31ee4/ed7b0/demo6.png)
+
+启用```jump_orders_enabled```时，Hummingbot的订单（以红色突出显示）下达的订单比以前的最佳订单高出1格。如果其他交易者跳了您的订单，机器人将通过跳过它们来自动响应竞争订单。
+![](https://hummingbot.io/static/a600e949a705853afc94ce118db0b3bf/ed7b0/demo7.png)
+
+#### 更多资源
+- 在[此处](https://www.youtube.com/watch?v=7fnAUXRLF4g&feature=youtu.be&t=1491)观看完整的演示视频。
+- 在[此处](https://docs.hummingbot.io/strategies/pure-market-making/#penny-jumping-mode)阅读文档。
+
+---
+更多最新功能，请阅读[博客](https://hummingbot.io/blog/2019-11-advanced-market-making/)及参考最近版本的[发布说明](https://docs.hummingbot.io/release-notes/)。
