@@ -10,6 +10,7 @@
 - [做市概念入门](#做市概念入门) 
 - [跨交易所套利概念入门](#跨交易所套利概念入门)
 - [常见问题](#常见问题)
+- [流动性挖矿介绍](#流动性挖矿) 
 - [使用hummingbot的前期准备](#使用hummingbot的前期准备)
 - [安装hummingbot](#安装hummingbot)
 - [使用hummingbot](#使用hummingbot)
@@ -71,7 +72,120 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
-## 常见问题
+## 流动性挖矿介绍
+![](https://hummingbot.io/static/166c0fa8c96121f2827aa91a46c0f233/41fe7/cover.png)
+**去中心化的、基于社区的做市。** 流动性挖掘允许任何人（社区，一般市场）参与代币的做市，并为代币的流动性做出贡献并提高该代币的可交易性。通过参与，用户不仅帮助支持代币和项目，而且通过流动性挖掘，他们能够根据其交易活动获得代币奖励。
+
+**做市商补偿的公平模型。** 参与者通过下订单为代币流动性做出贡献而获得奖励。奖励分配的目的是与矿工的风险保持一致：随着时间的推移，订单越稳定，点差越小，规模越大，获得的代币奖励就越多。
+
+即使是新手交易者或非技术用户也可以在短短几分钟内下载Hummingbot，配置交易参数，开始做市并获得流动性挖掘奖励。 Hummingbot是一款免费，开源且易于使用的做市交易机器人，其创建目的是向大众开放做市和算法交易的世界。
+
+### 流动性挖矿快速指南
+1. 安装[Hummingbot](https://hummingbot.io/download/)并将其配置为在Binance.com中进行交易
+2. 为您的Binance帐户创建只读API密钥
+3. 在[Hummingbot miners](https://miners.hummingbot.io)网络应用页面注册并且连接您的以太坊钱包（将在其中支付奖励）
+4. 在"Settings"选项卡中，输入只读Binance API密钥以记录您的真实交易活动
+5. 在"Activity"中查询您的代币奖励收入情况
+
+### 流动性挖矿现在支持的交易对及交易所
+
+<table>
+  <thead>
+    <th>Sponsor</th>
+    <th>Eligible pair</th>
+    <th>Maximum spread</th>
+    <th>Weekly rewards</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4"><a href="/liquidity-mining/campaigns/sponsors/#harmony">Harmony</a></td>
+      <td>ONE/BTC</td>
+      <td>1%</td>
+      <td>USDC 500</td>
+    </tr>
+    <tr>
+      <td>ONE/USDT</td>
+      <td>1%</td>
+      <td>USDC 500</td>
+    </tr>
+    <tr>
+      <td>ONE/BNB</td>
+      <td>1%</td>
+      <td>USDC 500</td>
+    </tr>
+    <tr>
+      <td>ONE/USDC</td>
+      <td>1%</td>
+      <td>USDC 500</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><a href="/liquidity-mining/campaigns/sponsors/#iexec">iExec</a></td>
+      <td>RLC/BTC</td>
+      <td>1%</td>
+      <td>USDC 187.50</td>
+    </tr>
+    <tr>
+      <td>RLC/USDT</td>
+      <td>1%</td>
+      <td>USDC 187.50</td>
+    </tr>
+    <tr>
+      <td>RLC/BNB</td>
+      <td>1%</td>
+      <td>USDC 187.50</td>
+    </tr>
+    <tr>
+      <td>RLC/ETH</td>
+      <td>1%</td>
+      <td>USDC 187.50</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><a href="/liquidity-mining/campaigns/sponsors/#zcoin">Zcoin</a></td>
+      <td>XZC/BTC</td>
+      <td>1%</td>
+      <td>USDC 562.50</td>
+    </tr>
+    <tr>
+      <td>XZC/BNB</td>
+      <td>1%</td>
+      <td>USDC 187.50</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><a href="/liquidity-mining/campaigns/sponsors/#zilliqa">Zilliqa</a><br><small><em>Note: ZIL/BTC is excluded</em><small></td>
+      <td>ZIL/USDT</td>
+      <td>1%</td>
+      <td>USDC 667</td>
+    </tr>
+    <tr>
+      <td>ZIL/ETH</td>
+      <td>1%</td>
+      <td>USDC 667</td>
+    </tr>
+    <tr>
+      <td>ZIL/BNB</td>
+      <td>1%</td>
+      <td>USDC 666</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 流动性挖矿网络应用页面
+
+欢迎来到新的Hummingbot Miners应用程序！该网站位于https://miners.hummingbot.io。
+
+在这个应用程序上，您将可以获得以下信息：
+
+- 实时活动数据：当前参与活动的详细信息和收益
+- 奖励信息：注册用户的最新收入和奖励信息
+- 注册成为Hummingbot流动性矿工：（1）连接以太坊钱包（用于奖励）和（2）配置只读API密钥（用于您的交易/采矿数据）
+
+主页显示当前正在进行的活动和每个活动的当前活动（如下图）。
+![](https://hummingbot.io/static/0e5b8447bb28e6b0af1fe2252faa7770/8637f/miners-dashboard.png)
+
+<br>
+
+## Hummingbot常见问题
 - [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
 
 <br>
@@ -81,12 +195,9 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
   - [如何获取Binance API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Binance%E6%8E%A5%E5%8F%A3.md) 
   - [如何获取Coinbase Pro API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Coinbase%20Pro%E6%8E%A5%E5%8F%A3.md)
-- 以太坊钱包（如果你的策略涉及去中心化交易所）
+- 以太坊钱包
   - [了解以太坊钱包更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E9%92%B1%E5%8C%85.md)
   - 例如：Metamask
-- 以太坊节点（如果你的策略涉及去中心化交易所）
-  - [了解以太坊节点更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E8%8A%82%E7%82%B9.md)
-  - 如何免费获得一个以太坊节点 coming soon
 - 运行系统要求：
   - Ubuntu 16.04或以后版本
   - macOS 10.12.6 (Sierra)或以后版本
