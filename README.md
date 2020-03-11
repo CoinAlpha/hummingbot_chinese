@@ -15,7 +15,7 @@
 - [使用hummingbot](#使用hummingbot)
 - [hummingbot博客](#hummingbot博客)
 - [hummingbot互动](#hummingbot互动)
-- [hummingbot常见问题](#常见问题)
+- [hummingbot常见问题](#Hummingbot常见问题)
 - [致谢](#致谢)
 
 
