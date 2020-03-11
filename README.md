@@ -9,13 +9,13 @@
 - [hummingbot是什么](#hummingbot是什么)
 - [做市概念入门](#做市概念入门) 
 - [跨交易所套利概念入门](#跨交易所套利概念入门)
-- [常见问题](#常见问题)
-- [流动性挖矿介绍](#流动性挖矿) 
+- [流动性挖矿](#流动性挖矿介绍) 
 - [使用hummingbot的前期准备](#使用hummingbot的前期准备)
 - [安装hummingbot](#安装hummingbot)
 - [使用hummingbot](#使用hummingbot)
 - [hummingbot博客](#hummingbot博客)
 - [hummingbot互动](#hummingbot互动)
+- [hummingbot常见问题](#常见问题)
 - [致谢](#致谢)
 
 
@@ -187,10 +187,6 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 <br>
 
-## Hummingbot常见问题
-- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
-
-<br>
 
 ## 使用hummingbot的前期准备
 - 足够数量的交易对存货
@@ -548,6 +544,11 @@ Config process complete. Enter "start" to start market making.
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](https://discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
 - 发现bug？报告bug也可以获得赏金哟！每报告一个我们决定解决的bug便可以获得0.1ETH赏金，[点击了解详情](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Bug%E8%B5%8F%E9%87%91%E8%AE%A1%E5%88%92.md)。
+
+<br>
+
+## Hummingbot常见问题
+- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
 
 <br>
 
