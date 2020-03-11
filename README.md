@@ -80,6 +80,8 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 
 即使是新手交易者或非技术用户也可以在短短几分钟内下载Hummingbot，配置交易参数，开始做市并获得流动性挖掘奖励。 Hummingbot是一款免费，开源且易于使用的做市交易机器人，其创建目的是向大众开放做市和算法交易的世界。
 
+**!!注意：参与流动性挖矿前，请务必阅读[活动条例](https://hummingbot.io/liquidity-mining-policy/)。**
+
 ### 流动性挖矿快速指南
 1. 安装[Hummingbot](https://hummingbot.io/download/)并将其配置为在Binance.com中进行交易
 2. 为您的Binance帐户创建只读API密钥
