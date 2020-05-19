@@ -21,6 +21,7 @@
 因此，纸上交易只有在有对比的情况下才更有用。例如，您可能要运行两个纸上交易机器人-一个具有更大的点差和非常长的取消订单等待时间，而另一个则具有更小的点差和较短的取消订单等待时间。随着时间的流逝，您将能够找出与实际资产进行交易时想要设置的最佳参数。
 
 #### 更多资源
+
 - 在[此处](https://www.youtube.com/watch?v=Zxq6S317pfw&feature=youtu.be&t=385)观看完整的演示视频。
 - 在[此处](https://docs.hummingbot.io/utilities/paper-trade/)阅读纸面交易模式的文档。
 
@@ -45,6 +46,7 @@
 我们希望这项新的加密功能将帮助我们所有的用户更加安全地运行高频交易机器人！
 
 #### 更多资源
+
 - 阅读[快速入门指南中的步骤4：配置做市机器人](https://docs.hummingbot.io/quickstart/3-configure-bot/#step-4-configure-a-market-making-bot)。
 - 阅读[v0.20.0发布说明](https://docs.hummingbot.io/release-notes/0.20.0/)
 
@@ -58,6 +60,7 @@
 要启用它，请将```stocker_skew_enabled```参数设置为```true```，然后设置您的```inventory_target_base_percent```。
 
 #### 更多资源
+
 - 在[此处](https://docs.hummingbot.io/strategies/pure-market-making/#inventory-based-dynamic-order-sizing)阅读有关库存偏斜的文档。
 - 请在[此处](https://docs.google.com/spreadsheets/d/16oCExZyM8Wo8d0aRPmT_j7oXCzea3knQ5mmm0LlPGbU/edit#gid=690135600)查看库存偏差计算器。
 
@@ -87,6 +90,7 @@
 ![](https://hummingbot.io/static/a600e949a705853afc94ce118db0b3bf/ed7b0/demo7.png)
 
 #### 更多资源
+
 - 在[此处](https://www.youtube.com/watch?v=7fnAUXRLF4g&feature=youtu.be&t=1491)观看完整的演示视频。
 - 在[此处](https://docs.hummingbot.io/strategies/pure-market-making/#penny-jumping-mode)阅读文档。
 
