@@ -26,8 +26,7 @@ Hummingbot是一个开源的数字货币交易软件，可以帮助你在任何�
 - [社区](https://docs.hummingbot.io/community)：为Hummingbot开源代码库作出贡献
 
 ## 更多资源
-
-[命令参考](https://docs.hummingbot.io/operation/commands)：常用命令和键盘快捷键
-[Github](https://github.com/coinalpha/hummingbot)：Hummingbot代码库
-[YouTube](https://www.youtube.com/channel/UCxzzdEnDRbylLMWmaMjywOA)：Hummingbot官方频道
-[中文wiki](https://github.com/coinalpha/hummingbot_chinese)：Hummingbot通用信息被翻译成中文
+- [命令参考](https://docs.hummingbot.io/operation/commands)：常用命令和键盘快捷键
+- [Github](https://github.com/coinalpha/hummingbot)：Hummingbot代码库
+- [YouTube](https://www.youtube.com/channel/UCxzzdEnDRbylLMWmaMjywOA)：Hummingbot官方频道
+- [中文wiki](https://github.com/coinalpha/hummingbot_chinese)：Hummingbot通用信息被翻译成中文
