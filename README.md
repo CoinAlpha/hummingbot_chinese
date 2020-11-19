@@ -251,7 +251,7 @@ chmod a+x *.sh
 
 **相关阅读**
 - [《如何安装hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/tree/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)
-- [《如何安装hummingbot(完全版)》(英文原文)](https://docs.hummingbot.io/installation/)
+- [《如何安装hummingbot(完全版)》(英文原文)](https://docs.hummingbot.io/installation/overview/)
 
 <br>
 
