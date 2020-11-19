@@ -110,9 +110,6 @@ Hummingbot现在提供两种做市交易策略，图解如下所示：
 - 中心化交易所账户及API（如果你的策略涉及中心化交易所）
   - [如何获取Binance API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Binance%E6%8E%A5%E5%8F%A3.md) 
   - [如何获取Coinbase Pro API](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E6%94%AF%E6%8C%81%E7%9A%84%E4%BA%A4%E6%98%93%E6%89%80/Coinbase%20Pro%E6%8E%A5%E5%8F%A3.md)
-- 以太坊钱包
-  - [了解以太坊钱包更多](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Ethereum%E9%92%B1%E5%8C%85.md)
-  - 例如：Metamask
 - 运行系统要求：
   - Ubuntu 16.04或以后版本
   - macOS 10.12.6 (Sierra)或以后版本
@@ -438,11 +435,9 @@ Config process complete. Enter "start" to start market making.
 
 **相关阅读**
 
-- [《快速配置hummingbot指南》(英文原文)](https://docs.hummingbot.io/quickstart/3-configure-bot/)
-- [《如何配置hummingbot》(英文原文)](https://docs.hummingbot.io/operation/configuration/)
+- [《hummingbot快速指南》(英文原文)](https://hummingbot.io/academy/quickstart/)
+- [《如何配置hummingbot》(英文原文)](https://docs.hummingbot.io/operation/client/)
 - [《如何配置hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Hummingbot%E9%85%8D%E7%BD%AE.md)
-- [《简易运行hummingbot指南》(英文原文)](https://docs.hummingbot.io/quickstart/4-run-bot/)
-- [《如何运行hummingbot》(英文原文)](https://docs.hummingbot.io/operation/running-bots/)
 - [《如何运行hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E8%BF%90%E8%A1%8CBots.md)
 - [《如何在云上运行hummingbot》(中文翻译)](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/%E8%BF%90%E8%A1%8Cbots-%E5%9C%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A.md)
 - [认识hummingbot客户端](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Hummingbot%E5%AE%A2%E6%88%B7%E7%AB%AF.md)
@@ -451,6 +446,7 @@ Config process complete. Enter "start" to start market making.
 
 ## hummingbot博客
 
+- [hummingbot博客（英文）](https://hummingbot.io/blog/)
 - [交易所類型說明：CLOB，RFQ和Automated](https://0xcj.com/2019/05/24/%E4%BA%A4%E6%98%93%E6%89%80%E9%A1%9E%E5%9E%8B%E8%AA%AA%E6%98%8E%EF%BC%9Aclob%EF%BC%8Crfq%E5%92%8Cautomated/)
 
 <br>
@@ -460,7 +456,6 @@ Config process complete. Enter "start" to start market making.
 - 想问问题？欢迎在github “Issues”区讨论及提出你的问题
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](https://discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
-- 发现bug？报告bug也可以获得赏金哟！每报告一个我们决定解决的bug便可以获得0.1ETH赏金，[点击了解详情](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/Bug%E8%B5%8F%E9%87%91%E8%AE%A1%E5%88%92.md)。
 
 <br>
 
