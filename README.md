@@ -444,6 +444,14 @@ Config process complete. Enter "start" to start market making.
 
 <br>
 
+## 其他资源
+
+- [Github](https://github.com/coinalpha/hummingbot)：Hummingbot代码库
+- [YouTube视频教学](https://www.youtube.com/channel/UCxzzdEnDRbylLMWmaMjywOA)：Hummingbot官方频道
+- [Hummingbot常见问题](https://docs.hummingbot.io/resources/faq/)
+
+<br>
+
 ## hummingbot博客
 
 - [hummingbot博客（英文）](https://hummingbot.io/blog/)
@@ -456,11 +464,6 @@ Config process complete. Enter "start" to start market making.
 - 想问问题？欢迎在github “Issues”区讨论及提出你的问题
 - 想即时联系hummingbot团队？欢迎点击加入[hummingbot discord聊天室](https://discord.hummingbot.io)
 - 想为hummingbot出份力？欢迎帮助[**翻译hummingbot文档**](https://docs.hummingbot.io)并在github提交Pull Request(合并请求)，我们阅读和修改后会尽快通过。感谢大家支持！
-
-<br>
-
-## Hummingbot常见问题
-- [FAQ](https://github.com/CoinAlpha/hummingbot_chinese/blob/master/Hummingbot%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90/FAQ.md)
 
 <br>
 
