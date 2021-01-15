@@ -19,7 +19,7 @@ Celo节点允许Hummingbot客户端通过连接到对等方，发送交易和获
 
 ### 配置
 
-**1. 建立一个AWS云**
+**1. 建立一个AWS云实例**
 
 此配置为在AWS上安装Hummingbot的Docker构建。请注意，除了AWS以外，您还可以使用其他云提供商，并且除了Docker之外，还可以从源代码或二进制安装Hummingbot。
 
