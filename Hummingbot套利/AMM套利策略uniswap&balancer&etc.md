@@ -162,13 +162,13 @@ Enter your Gateway cert passphrase configured in Hummingbot
 ```
 
 之后，查看信息并输入“是”以完成Gateway配置：
+
 ![](https://hummingbot.io/static/aa3a632397c42276d02bc98a28b648d0/320b1/gateway-summary.png)
 
 
 更改端口：默认情况下，网关将安装在Hummingbot用于连接到的端口5000上。如果端口5000不可用，网关将增加端口号并使用端口5001。如果端口为5001，请在Hummingbot中运行```config gateway_api_port```设置正确的端口。
 
 ## 运行```amm-arb```机器人
-
 
 现在，我们终于可以配置一个在AMM协议和订单簿交换之间套利的```amm_arb```机器人！
 
