@@ -69,6 +69,6 @@
 
 [syuukawa](https://github.com/syuukawa)
 
-[yingdan]()
+[yingdan](https://github.com/moraliang)
 
-[dolm]()
+[dolm](https://github.com/whoareyou40)
