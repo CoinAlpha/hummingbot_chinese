@@ -54,7 +54,7 @@
 - [视频] DYDX交易所使用指南 [Youtube](https://youtu.be/c4guWkUC_5Y)
 - [文章] 如何使用Telegram管理Hummingbot [Zhihu](https://zhuanlan.zhihu.com/p/410034371) 
 ## 开发
-- [视频] 脚本(Script)功能使用指南 [Bilbili](https://www.bilibili.com/video/BV1nM4y1G7Av/) [Youtube](https://youtu.be/0Y27_gMLt1w)
+- [视频] 脚本(Script)功能使用指南 [Bilbili](https://www.bilibili.com/video/BV1nM4y1G7Av/) | [Youtube](https://youtu.be/0Y27_gMLt1w)
 
 
 ## 问答
