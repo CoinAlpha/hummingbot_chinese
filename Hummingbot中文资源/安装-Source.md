@@ -19,7 +19,7 @@ Linux               我们推荐Ubuntu 18.04，虽然Hummingbot也可以在其�
 
 Hummingbot需要python3和其他Python库。为了管理这些依赖关系，Hummingbot使用了Anaconda，这是Python的开源环境和包管理器，是当前数据科学家和数据工程师的行业标准。
 
-要安装Anaconda，请访问A[naconda网站](https://www.anaconda.com/distribution/)并下载操作系统的Python 3.7安装程序。图形安装程序和命令行安装程序都可以工作。运行安装程序，它将指导您完成安装过程。
+要安装Anaconda，请访问[Anaconda网站](https://www.anaconda.com/distribution/)并下载操作系统的Python 3.7安装程序。图形安装程序和命令行安装程序都可以工作。运行安装程序，它将指导您完成安装过程。
 
 然后，打开终端窗口并尝试conda命令。如果该命令有效，那么Anaconda已经成功安装，即使图形安装程序说它失败了。
 
