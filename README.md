@@ -22,7 +22,7 @@
 - [视频]hummingbot是什么？ [Bilbili](https://www.bilibili.com/video/BV1oX4y1g7Kp/) | [Youtube](https://youtu.be/_Y2aZr9LkXY)
 
 - [文章] 不要牌照，不会编程，我一个人就是一支量化基金 [链闻](https://www.chainnews.com/articles/092938875124.htm) 
-- [文章] 数字货币量化交易机器人的比较 [知乎](https://zhuanlan.zhihu.com/p/405182553)
+- [文章] 数字货币量化交易机器人的比较 [Zhihu](https://zhuanlan.zhihu.com/p/405182553)
 ## 安装
 - [视频] 快速创建Hummingbot量化交易机器人 [Bilibili](https://www.bilibili.com/video/BV1nB4y1A7nZ/) | [Youtube](https://youtu.be/gLC4wuMUpug)
 
