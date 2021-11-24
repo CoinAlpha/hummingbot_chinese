@@ -43,6 +43,7 @@
 - [文章] 跨交易所做市策略 [Zhihu](https://zhuanlan.zhihu.com/p/423357205)
 - [文章] 现货-永续合约套利策略指南 [Zhihu](https://zhuanlan.zhihu.com/p/409244837)
 - [文章] Avellaneda & Stoikov策略介绍 [Zhihu](https://zhuanlan.zhihu.com/p/399924066)
+- [文章] 阿隆(Aroon)指标策略指南 [Zhihu](https://zhuanlan.zhihu.com/p/434971567)
 ## 挖矿
 - [视频]流动性挖矿--理论篇 [Bilbili](https://www.bilibili.com/video/BV1yK4y1P7SJ/)  | [Youtube](https://youtu.be/mswTft93_i0)
 - [视频]流动性挖矿--实践篇 [Bilbili](https://www.bilibili.com/video/BV1L5411u71y/)  | [Youtube](https://youtu.be/jYmHVI1lm_g) 
