@@ -21,7 +21,6 @@
 
 - [视频]hummingbot是什么？ [Bilbili](https://www.bilibili.com/video/BV1oX4y1g7Kp/) | [Youtube](https://youtu.be/_Y2aZr9LkXY)
 
-- [文章] 不要牌照，不会编程，我一个人就是一支量化基金 [链闻](https://www.chainnews.com/articles/092938875124.htm) 
 - [文章] 数字货币量化交易机器人的比较 [Zhihu](https://zhuanlan.zhihu.com/p/405182553)
 ## 安装
 - [视频] 快速创建Hummingbot量化交易机器人 [Bilibili](https://www.bilibili.com/video/BV1nB4y1A7nZ/) | [Youtube](https://youtu.be/gLC4wuMUpug)
@@ -38,12 +37,14 @@
 - [视频] 纯做市策略高级参数指南 [Bilbili](https://www.bilibili.com/video/BV1Vy4y1u7sS/) | [Youtube](https://youtu.be/zV8Wi0CJOlg)
 - [视频] 跨交易所做市策略指南 [Bilbili](https://www.bilibili.com/video/BV1fh411q7fP/) | [Youtube](https://youtu.be/sS99DrIyIxA)
 - [视频] Avellaneda & Stoikov做市策略指南 [Bilbili](https://www.bilibili.com/video/BV1m64y1b7gS/) | [Youtube](https://youtu.be/5RrHi6dXzME)
+- [视频] 对冲策略指南 [Bilbili](https://www.bilibili.com/video/BV1g34y197Pg) | [Youtube](https://youtu.be/Y_nfr0PDnzY)
 
 - [文章] Terra套利指南 [Zhihu](https://zhuanlan.zhihu.com/p/407956989)
 - [文章] 跨交易所做市策略 [Zhihu](https://zhuanlan.zhihu.com/p/423357205)
 - [文章] 现货-永续合约套利策略指南 [Zhihu](https://zhuanlan.zhihu.com/p/409244837)
 - [文章] Avellaneda & Stoikov策略介绍 [Zhihu](https://zhuanlan.zhihu.com/p/399924066)
 - [文章] 阿隆(Aroon)指标策略指南 [Zhihu](https://zhuanlan.zhihu.com/p/434971567)
+
 ## 挖矿
 - [视频]流动性挖矿--理论篇 [Bilbili](https://www.bilibili.com/video/BV1yK4y1P7SJ/)  | [Youtube](https://youtu.be/mswTft93_i0)
 - [视频]流动性挖矿--实践篇 [Bilbili](https://www.bilibili.com/video/BV1L5411u71y/)  | [Youtube](https://youtu.be/jYmHVI1lm_g) 
