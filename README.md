@@ -34,7 +34,7 @@
 - [文章] 什么是套利？ [Zhihu](https://zhuanlan.zhihu.com/p/426858907)
 - [文章] 什么是库存风险？ [Zhihu](https://zhuanlan.zhihu.com/p/427984248)
 - [文章] 初学者对Hummingbot做市的最大误解 [mirror.xyz](https://mirror.xyz/0x7f2337F8E6bFd7Ce15Ea6c58c917D69Ac8402B1e/uqH-SVwS0BkDIwCODhhGr2rb8DBJwsn8NsK7fLhn4ns) 
-- ## 策略
+## 策略
 - [视频] 纯做市策略高级参数指南 ~~[Bilbili](https://www.bilibili.com/video/BV1Vy4y1u7sS/)~~ | [Youtube](https://youtu.be/zV8Wi0CJOlg)
 - [视频] 跨交易所做市策略指南 ~~[Bilbili](https://www.bilibili.com/video/BV1fh411q7fP/)~~ | [Youtube](https://youtu.be/sS99DrIyIxA)
 - [视频] Avellaneda & Stoikov做市策略指南 ~~[Bilbili](https://www.bilibili.com/video/BV1m64y1b7gS/)~~ | [Youtube](https://youtu.be/5RrHi6dXzME)
