@@ -54,6 +54,7 @@
 - [文章]流动性挖矿的比较hummingbot vs. Defi(一) [Zhihu](https://zhuanlan.zhihu.com/p/402304253) 
 - [文章]流动性挖矿的比较hummingbot vs. Defi(二) [Zhihu](https://zhuanlan.zhihu.com/p/404672369) 
 - [文章]成功矿工的共同特征 [Zhihu](https://zhuanlan.zhihu.com/p/475828359) | [mirror.xyz](https://mirror.xyz/0x7f2337F8E6bFd7Ce15Ea6c58c917D69Ac8402B1e/uqH-SVwS0BkDIwCODhhGr2rb8DBJwsn8NsK7fLhn4ns)
+- [文章] 最大化 Hummingbot 流动性挖矿收益的建议 [Zhihu](https://zhuanlan.zhihu.com/p/487238376) 
 ## 技巧
 - [视频] DYDX交易所使用指南 [Youtube](https://youtu.be/c4guWkUC_5Y)
 - [文章] 如何使用Telegram管理Hummingbot [Zhihu](https://zhuanlan.zhihu.com/p/410034371) 
